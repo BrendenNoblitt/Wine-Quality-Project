@@ -21,6 +21,7 @@ After cleaning and understanding the data, I went into some basic statistical an
 1. Alcohol: 0.46 
 2. Sulphates: 0.38 
 3. Citric Acid: 0.23 
+
 Alcohol and sulphates also had a correlation of 0.21. After finding these correlations, I started on my model.
 
 ## Modeling
