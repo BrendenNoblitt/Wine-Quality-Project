@@ -33,7 +33,5 @@ While the correlation between alcohol and quality was high, the regression coeff
 # Conclusion 
 After modeling, I found that an increase in sulphates can increase the quality of wine from a numeric standpoint.
 
-<img width="500" alt="2" src="https://user-images.githubusercontent.com/65836934/85966246-c3cc7700-b984-11ea-835b-064092c2bb9d.png">
-<img width="500" alt="Annotation 2020-06-28 185530" src="https://user-images.githubusercontent.com/65836934/85966247-c4650d80-b984-11ea-8196-97e41592c0fc.png">
+![3](https://user-images.githubusercontent.com/65836934/85966416-566d1600-b985-11ea-800e-33e248c41a6d.png) ![4](https://user-images.githubusercontent.com/65836934/85966481-89afa500-b985-11ea-90c5-d87dd07ad96e.png)
 
-![3](https://user-images.githubusercontent.com/65836934/85966416-566d1600-b985-11ea-800e-33e248c41a6d.png)
