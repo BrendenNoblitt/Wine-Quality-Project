@@ -25,10 +25,11 @@ Alcohol and sulphates also had a correlation of 0.21. After finding these correl
 
 ## Modeling
 For my model, I set x to variables that had a p-value of under 0.05. I removed "residual sugar", "free sulfur dioxide", and "pH", due to their high p-values. After I removed these variables, I set y to quality. I used a multiple linear regression to find the relationships between all variables to quality. 
-<img width="238" alt="summary" src="https://user-images.githubusercontent.com/65836934/85968627-33456500-b98b-11ea-8d08-2b380207b1c8.png">
+
+<img width="500" alt="summary" src="https://user-images.githubusercontent.com/65836934/85968627-33456500-b98b-11ea-8d08-2b380207b1c8.png">
 
 # Conclusion 
-After modeling, I found that sulphates, alcohol, and fixed acidity all had positive regression coefficients. Sulphates, however, had a regression correlation of over 1, suggesting that as quality increases, so does the mean sulphate count. It is also noted that density had a -9.14 regression coefficient, meaning that as quality went up, density went down significantly. If this were a business situation, I would suggest that manufacturers and winemakers produce and sell wine that have a small density and a slightly larger amount of sulphates.
+After modeling, I found that sulphates, alcohol, and fixed acidity all had positive regression coefficients. Sulphates, however, had a regression correlation of over 1, suggesting that as quality increases, so does the mean sulphate count. It is also noted that density had a -9.14 regression coefficient, meaning that as quality went up, density went down significantly. It can be seen in the following graphs that there is a larger amount of predicted quality 6 wines than there are in the current data. If this were a business situation, I would suggest that manufacturers and winemakers produce and sell wine that have a small density and a slightly larger amount of sulphates.
 
 ![pre-prediction](https://user-images.githubusercontent.com/65836934/85968628-33ddfb80-b98b-11ea-8899-18c24964400b.png)![post-prediction](https://user-images.githubusercontent.com/65836934/85968629-33ddfb80-b98b-11ea-971a-6007db50c51a.png)
 
