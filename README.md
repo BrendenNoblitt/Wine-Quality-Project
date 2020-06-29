@@ -35,3 +35,4 @@ After modeling, I found that an increase in sulphates can increase the quality o
 
 <img width="500" alt="2" src="https://user-images.githubusercontent.com/65836934/85966246-c3cc7700-b984-11ea-835b-064092c2bb9d.png">
 <img width="500" alt="Annotation 2020-06-28 185530" src="https://user-images.githubusercontent.com/65836934/85966247-c4650d80-b984-11ea-8196-97e41592c0fc.png">
+<img width="500" alt="https://user-images.githubusercontent.com/65836934/85966356-1efe6980-b985-11ea-9b06-0fc05d69a1c0.png"
